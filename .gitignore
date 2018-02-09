@@ -1,0 +1,20 @@
+*.log
+npm-debug.log
+npm-shrinkwrap.json
+pids
+*.pid
+*.seed
+dist
+lib-cov
+coverage
+node_modules
+**/.idea
+# OS stuff
+.DS_Store
+.tmp
+tmp
+.coveralls.yml
+*.zip
+.eslintcache
+jest
+*.swp
